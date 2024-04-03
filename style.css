@@ -44,6 +44,7 @@ header{
     min-width: 150px;
     box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.5);
     padding-top: 45px;
+    margin-right: 0px;
 }
 
 .linksu{
@@ -88,7 +89,7 @@ nav>a{
 article{
     background-color: white;
     
-    max-width: 840px;
+    max-width: 820px;
     padding: 10px 10px 0px 10px;
     margin: auto;
     text-align: justify;
@@ -126,7 +127,7 @@ p{
     display: block;
     margin: auto;
 }
-#robo1{
+.robo1{
     display: block;
     margin: auto;
 }
